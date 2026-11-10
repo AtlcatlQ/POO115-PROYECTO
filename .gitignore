@@ -1,0 +1,10 @@
+# NetBeans
+nbproject/
+build/
+
+# Maven
+target/
+
+# Archivos locales de NetBeans
+nbactions.xml
+nb-configuration.xml
